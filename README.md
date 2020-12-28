@@ -5,9 +5,5 @@
 
 Here are some ideas to get you started:
 
-🌱 I’m currently learning at  SoftwareUniversity & Technical University of Gabrovo.
+🎓 I’m currently learning at  SoftwareUniversity & Technical University of Gabrovo.
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
