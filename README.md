@@ -4,5 +4,7 @@
 </div>
 
 🎓 Student at: SoftwareUniversity & Technical University of Gabrovo.
+
 📧 Contact via e-mail: alienguymc@gmail.com
+
 🌐 Contact via Facebook: https://www.facebook.com/georgi.d99/
