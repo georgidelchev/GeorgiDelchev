@@ -11,8 +11,3 @@
 | 🌐 [LinkedIn](https://www.linkedin.com/in/delchevgeorgi/)|
 | 📧 Email - alienguymc@gmail.com|
 
-<div>
-    <video>
-      <source src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" type="video/mp4">
-  </video>
-</div>
