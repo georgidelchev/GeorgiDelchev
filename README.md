@@ -3,7 +3,9 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgidelchev&layout=compact" />
 </div>
 
-- 🎓 Student at: SoftwareUniversity & Technical University of Gabrovo.
+| Connection via |
+| ------ |
+| 🎓 Student at: SoftwareUniversity & Technical University of Gabrovo.|
 
 | Connection via |
 | ------ |
