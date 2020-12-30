@@ -11,9 +11,10 @@
 
 - 🌐 LinkedIn: https://www.linkedin.com/in/delchevgeorgi/
 
-| Connection via | Link |
+
+| Connection via |
 | ------ | ------ |
-| 🌐Facebook | [alienguymc@gmail.com][PlDb] |
-| 🌐LinkedIn | [plugins/github/README.md][PlGh] |
-| 📧Email | [plugins/googledrive/README.md][PlGd] |
+| 🌐 [Facebook](https://www.facebook.com/georgi.d99/) | 
+| 🌐LinkedIn |
+| 📧Email |
 
