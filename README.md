@@ -13,8 +13,8 @@
 
 
 | Connection via |
-| ------ | ------ |
-| 🌐 [Facebook](https://www.facebook.com/georgi.d99/) | 
-| 🌐LinkedIn |
-| 📧Email |
+| ------ |
+| 🌐 [Facebook](https://www.facebook.com/georgi.d99/)| 
+| 🌐 [LinkedIn](https://www.linkedin.com/in/delchevgeorgi/)|
+| 📧 Email - alienguymc@gmail.com|
 
