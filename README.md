@@ -4,6 +4,7 @@
   <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=georgidelchev&count_private=true&true&hide=issues&show_icons=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgidelchev&layout=compact" />
 </div>
+
 | :octocat: Connect via | :scroll: Certificates |
 | :-: | :-: |
 | :blue_book: [**Facebook**](https://www.facebook.com/georgi.d99/)| :heavy_check_mark: [**C# Basics 2018**](https://softuni.bg/certificates/details/60522/7f0d88f0) :heavy_check_mark: [**C# Basics 2020**](https://softuni.bg/certificates/details/81516/44cacb84)|
