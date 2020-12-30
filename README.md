@@ -5,7 +5,7 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgidelchev&layout=compact" />
 </div>
 
-| Connection via |
+| Connect via |
 | ------ |
 | 🌐 [Facebook](https://www.facebook.com/georgi.d99/)|  
 | 🌐 [LinkedIn](https://www.linkedin.com/in/delchevgeorgi/)|
