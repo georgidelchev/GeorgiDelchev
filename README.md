@@ -5,6 +5,8 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgidelchev&layout=compact" />
 </div>
 
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=georgidelchev" alt="Github Streak Stats">
+
 | :octocat: Connect via: | :scroll: Certificates: |
 | :-: | :-: |
 | :e-mail: **E-mail:**<br/>**alienguymc@gmail.com**| :heavy_check_mark: [**C# Basics 2018**](https://softuni.bg/certificates/details/60522/7f0d88f0)<br/>:heavy_check_mark: [**C# Basics 2020**](https://softuni.bg/certificates/details/81516/44cacb84)|
