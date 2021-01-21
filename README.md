@@ -6,7 +6,7 @@
 
 <div>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=georgidelchev&count_private=true&true&hide=issues&show_icons=true"><br>
-  <img height="150" width="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgidelchev&layout=compact" />
+  <img height="150" width="750" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgidelchev&layout=compact" />
 </div>
 
 <div>
