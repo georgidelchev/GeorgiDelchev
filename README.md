@@ -2,8 +2,8 @@
 
 <p align="left">
    <img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" width="200">
-   <img height="550" src="https://github-readme-stats.vercel.app/api?username=georgidelchev&count_private=true&true&hide=issues&show_icons=true">
-   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgidelchev&layout=compact" />
+   <img height="140" src="https://github-readme-stats.vercel.app/api?username=georgidelchev&count_private=true&true&hide=issues&show_icons=true">
+   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgidelchev&layout=compact" />
 </p>
 
 <div>
