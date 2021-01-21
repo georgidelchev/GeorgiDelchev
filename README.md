@@ -3,7 +3,7 @@
    <br>
    <img width="200" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif">
    <br>
-   <img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=georgidelchev&count_private=true&true&hide=issues&show_icons=true">
+   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=georgidelchev&count_private=true&true&hide=issues&show_icons=true">
    <br>
    <img  width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgidelchev&layout=compact">
 </p>
