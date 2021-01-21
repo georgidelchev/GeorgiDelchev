@@ -31,13 +31,13 @@
    - 🎓💻 **Student at: SoftwareUniversity && Technical University of Gabrovo.**
    
    <br>
-   <img width="200" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif">
+   <img width="300" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif">
    <br>
-   <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=georgidelchev" alt="Github Streak Stats">
+   <img width="510" src="https://github-readme-streak-stats.herokuapp.com/?user=georgidelchev" alt="Github Streak Stats">
    <br>
-   <img height="140" src="https://github-readme-stats.vercel.app/api?username=georgidelchev&count_private=true&true&hide=issues&show_icons=true">
+   <img height="240" src="https://github-readme-stats.vercel.app/api?username=georgidelchev&count_private=true&true&hide=issues&show_icons=true">
    <br>
-   <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgidelchev&layout=compact">
+   <img width="510" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgidelchev&layout=compact">
 </p>
 
 | :octocat: Connect via: | :scroll: Certificates: |
