@@ -33,11 +33,11 @@ Technical University of Gabrovo.**
 <p align="center">
    
    <img width="200" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif">
-   
+   <br>
    <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=georgidelchev" alt="Github Streak Stats">
-   
+   <br>
    <img height="140" src="https://github-readme-stats.vercel.app/api?username=georgidelchev&count_private=true&true&hide=issues&show_icons=true">
-   
+   <br>
    <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgidelchev&layout=compact">
    
 </p>
