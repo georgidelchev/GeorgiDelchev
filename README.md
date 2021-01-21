@@ -25,13 +25,14 @@
 | 💼 [**LinkedIn**](https://www.linkedin.com/in/delchevgeorgi/)| :heavy_check_mark: [**C# Advanced 2020**](https://softuni.bg/certificates/details/90388/fe4aa004)<br/>:heavy_check_mark: [**C# OOP 2020**](https://softuni.bg/certificates/details/95813/bafda7ee)|
 --->
 
-- 🎓💻 **Student at: 
+
+
+<p align="center">
+   - 🎓💻 **Student at: 
 SoftwareUniversity 
 &&
 Technical University of Gabrovo.**
-
-<p align="center">
-   
+   <br>
    <img width="200" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif">
    <br>
    <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=georgidelchev" alt="Github Streak Stats">
@@ -39,7 +40,6 @@ Technical University of Gabrovo.**
    <img height="140" src="https://github-readme-stats.vercel.app/api?username=georgidelchev&count_private=true&true&hide=issues&show_icons=true">
    <br>
    <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgidelchev&layout=compact">
-   
 </p>
 
 | :octocat: Connect via: | :scroll: Certificates: |
