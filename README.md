@@ -28,10 +28,7 @@
 
 
 <p align="center">
-   - 🎓💻 **Student at: 
-SoftwareUniversity 
-&&
-Technical University of Gabrovo.**
+   - 🎓💻 **Student at: SoftwareUniversity && Technical University of Gabrovo.**
    <br>
    <img width="200" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif">
    <br>
