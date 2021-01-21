@@ -3,7 +3,9 @@
 
 <p align="left">
    <img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" width="200">
+   
    <img height="140" src="https://github-readme-stats.vercel.app/api?username=georgidelchev&count_private=true&true&hide=issues&show_icons=true">
+   
    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgidelchev&layout=compact" />
 </p>
 
@@ -30,8 +32,11 @@ Technical University of Gabrovo.**
 
 <p align="center">
    <img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" width="200">
+   
    <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=georgidelchev" alt="Github Streak Stats">
+   
    <img height="140" src="https://github-readme-stats.vercel.app/api?username=georgidelchev&count_private=true&true&hide=issues&show_icons=true">
+   
    <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgidelchev&layout=compact" />
 </p>
 
