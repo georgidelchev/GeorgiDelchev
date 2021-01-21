@@ -1,12 +1,11 @@
 <p align="center">
-   - 🎓💻 **Student at: SoftwareUniversity && Technical University of Gabrovo.**
-   <br>
-   <img width="200" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif">
+   - 🎓💻 <b>Student at: SoftwareUniversity && Technical University of Gabrovo.
    
+   <img width="200" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif">
    <br>
-   <img width="400" src="https://github-readme-stats.vercel.app/api?username=georgidelchev&count_private=true&true&hide=issues&show_icons=true">
+   <img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=georgidelchev&count_private=true&true&hide=issues&show_icons=true">
    <br>
-   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgidelchev&layout=compact">
+   <img  width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgidelchev&layout=compact">
 </p>
 
 | :octocat: Connect via: | :scroll: Certificates: |
