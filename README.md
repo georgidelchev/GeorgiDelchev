@@ -23,14 +23,13 @@
 | 💼 [**LinkedIn**](https://www.linkedin.com/in/delchevgeorgi/)| :heavy_check_mark: [**C# Advanced 2020**](https://softuni.bg/certificates/details/90388/fe4aa004)<br/>:heavy_check_mark: [**C# OOP 2020**](https://softuni.bg/certificates/details/95813/bafda7ee)|
 --->
 
-
-<p align="center">
 - 🎓💻 **Student at: 
 SoftwareUniversity 
 &&
 Technical University of Gabrovo.**
-   
-<img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" width="200">
+
+<p align="center">
+   <img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" width="200">
    <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=georgidelchev" alt="Github Streak Stats">
    <img height="140" src="https://github-readme-stats.vercel.app/api?username=georgidelchev&count_private=true&true&hide=issues&show_icons=true">
    <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgidelchev&layout=compact" />
