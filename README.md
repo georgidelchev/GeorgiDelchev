@@ -1,8 +1,7 @@
 - 🎓💻 **Student at: SoftwareUniversity & Technical University of Gabrovo.**
 
 <div>
-    <img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" width="200">
-    
+    <img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" width="200"><br>
     <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=georgidelchev&count_private=true&true&hide=issues&show_icons=true" />
 </div>
 
