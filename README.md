@@ -2,7 +2,7 @@
    - 🎓💻 <b>Student at: SoftwareUniversity<br>&&<br>Technical University of Gabrovo.
    <br>
    <img width="200" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif">
-   <img width="200" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif">
+   <img width="200" src="https://codepen.io/xtoq/full/xZmLpK">
    <img width="200" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif">
 </p>
    
