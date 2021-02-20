@@ -1,5 +1,5 @@
 <p align="center">
-   💻 <b>Student at: 🎓 SoftwareUniversity🎓 <br>&&<br>🎓 Technical University of Gabrovo. 🎓
+   💻 <b>Student at: <br> 🎓 SoftwareUniversity🎓 <br>&&<br>🎓 Technical University of Gabrovo. 🎓
    <br>
    <img width="200" height="150" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif">
    <img width="200" height="150" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif">
