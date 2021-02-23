@@ -2,7 +2,7 @@
 <p align="center">
    <b>🎓 Student 🎓<br>🎓 SoftwareUniversity 🎓<br>🎓 Technical University of Gabrovo 🎓
       <br>
-         <img width="50" height="100" src="https://visitor-badge.glitch.me/badge?page_id=georgidelchev">
+         <img width="100" height="500" src="https://visitor-badge.glitch.me/badge?page_id=georgidelchev">
 
       
    <br>
