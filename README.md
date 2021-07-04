@@ -25,3 +25,4 @@
 | :blue_book: [**Facebook**](https://www.facebook.com/georgi.d99/)| :heavy_check_mark: [**C# Fundamentals 2020**](https://softuni.bg/certificates/details/86254/2b4e820e)| |
 | 💼 [**LinkedIn**](https://www.linkedin.com/in/delchevgeorgi/)| :heavy_check_mark: [**C# Advanced 2020**](https://softuni.bg/certificates/details/90388/fe4aa004)<br/>:heavy_check_mark: [**C# OOP 2020**](https://softuni.bg/certificates/details/95813/bafda7ee)|:heavy_check_mark: [**HackerRank C# Basic**](https://www.hackerrank.com/certificates/71abd1cb4332)<br/>:heavy_check_mark: [**HackerRank Problem Solving Basic**](https://www.hackerrank.com/certificates/d750d27f85a4)|
 <!-- Table of content -->
+
