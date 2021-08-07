@@ -10,7 +10,7 @@
    <img width="200" height="150" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif">
 </p>
 <!-- Top text and gifs -->
-
+   
 <!-- Statistics -->
 <div>
   <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=georgidelchev&count_private=true&true&hide=issues&show_icons=true" />
