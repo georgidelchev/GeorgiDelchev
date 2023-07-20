@@ -1,15 +1,18 @@
 <!-- Top text and gifs -->
 <p align="center">
-        <a href="https://visitcount.itsvg.in">
-           <img src="https://visitcount.itsvg.in/api?id=georgidelchev&label=&color=11&icon=5&pretty=false" />
-        </a>
-        <br>
-   <img width="200" height="150" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif">
-   <img width="200" height="150" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif">
-   <img width="200" height="150" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif">
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=georgidelchev&label=&color=11&icon=5&pretty=false" />
+    </a>
+        
+    <br>
+    
+    <img width="200" height="150" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif">
+    <img width="200" height="150" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif">
+    <img width="200" height="150" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif">
+    <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=georgidelchev&count_private=true&true&hide=issues&show_icons=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgidelchev&layout=compact" />
 </p>
 <!-- Top text and gifs -->
-   
    
 <!-- Statistics -->
 <div>
