@@ -1,7 +1,5 @@
 <div align="center">
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=georgidelchev&label=&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
 # Hi, I'm Georgi 👋
 
 ### .NET Developer · Problem Solver · Lifelong Learner
