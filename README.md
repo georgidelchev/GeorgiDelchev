@@ -51,16 +51,6 @@ I believe in deliberate practice, clean architecture, and the idea that every pr
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgidelchev&count_private=true&true&hide=issues&show_icons=true)](https://github.com/georgidelchev)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=georgidelchev&layout=compact)](https://github.com/georgidelchev)
-
-</div>
 
 ---
 
