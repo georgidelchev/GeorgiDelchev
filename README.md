@@ -76,7 +76,7 @@ I believe in deliberate practice, clean architecture, and the idea that every pr
 | [C# Basics 2018](https://softuni.bg/certificates/details/60522/7f0d88f0) | [MS SQL Server 2021](https://softuni.bg/certificates/details/97805/3e5bda4c) | [C# Basic](https://www.hackerrank.com/certificates/71abd1cb4332) |
 | [C# Basics 2020](https://softuni.bg/certificates/details/81516/44cacb84) | [Entity Framework Core 2021](https://softuni.bg/certificates/details/102692/d34202da) | [Problem Solving Basic](https://www.hackerrank.com/certificates/d750d27f85a4) |
 | [C# Fundamentals 2020](https://softuni.bg/certificates/details/86254/2b4e820e) | [C# Web Basics 2021](https://softuni.bg/certificates/details/109491/1438a928) | |
-| [C# Advanced 2020](https://softuni.bg/certificates/details/90388/fe4aa004) | ASP.NET Core 2021 | |
+| [C# Advanced 2020](https://softuni.bg/certificates/details/90388/fe4aa004) | [ASP.NET Core 2021](https://softuni.bg/certificates/details/113458/d5cda89d) | |
 | [C# OOP 2020](https://softuni.bg/certificates/details/95813/bafda7ee) | | |
 
 </div>
