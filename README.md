@@ -97,10 +97,6 @@ I believe in deliberate practice, clean architecture, and the idea that every pr
 
 <div align="center">
 
-[![](https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif)](https://giphy.com)
-[![](https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif)](https://tenor.com)
-[![](https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif)](https://giphy.com)
-
 *Thanks for stopping by — feel free to explore the repos and reach out!* 🙌
 
 </div>
